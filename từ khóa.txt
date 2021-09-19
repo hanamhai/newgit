@@ -1,0 +1,12 @@
+asm:chèn các lệnh Assembly vào chương trình C
+catch:
+try(thường đi liền với catch)--> bẫy lỗi:
+class: khai báo từ khóa class
+delete: giải phóng bộ nhớ
+friend + inline: khai báo hàm
+private + protected + public: các mức truy cập modi file, giới hạn các mức truy cập đến những thành phần của lớp
+virtual
+new: cấp phát bộ nhớ
+template:?
+this:
+throw:
